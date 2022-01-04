@@ -1,0 +1,8 @@
+		JAVA SCRIPT
+
+Java Script - Client Side Pgm
+PHP -  Server side Pgm
+Node js -- Server side pgm of JavaScript 
+
+Css & Html  -- How to visible contents(styles and Fonts... no user interaction)
+Java Script -- For user interactions in web page
